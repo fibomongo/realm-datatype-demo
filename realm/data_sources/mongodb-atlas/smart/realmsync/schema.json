@@ -9,6 +9,9 @@
                 "bsonType": "string"
             }
         },
+        "dateField": {
+            "bsonType": "date"
+        },
         "decimal128Field": {
             "bsonType": "decimal"
         },
@@ -37,6 +40,9 @@
         },
         "strField": {
             "bsonType": "string"
+        },
+        "timestampField": {
+            "bsonType": "timestamp"
         }
     },
     "title": "realmsync"
