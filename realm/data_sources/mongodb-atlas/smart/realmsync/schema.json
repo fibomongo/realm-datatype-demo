@@ -3,6 +3,9 @@
         "_id": {
             "bsonType": "objectId"
         },
+        "_partition": {
+            "bsonType": "string"
+        },
         "arrayField": {
             "bsonType": "array",
             "items": {
