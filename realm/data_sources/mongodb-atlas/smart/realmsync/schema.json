@@ -1,1 +1,43 @@
-{}
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "arrayField": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "string"
+            }
+        },
+        "decimal128Field": {
+            "bsonType": "decimal"
+        },
+        "dictField": {
+            "bsonType": "object",
+            "properties": {
+                "k1": {
+                    "bsonType": "string"
+                },
+                "k2": {
+                    "bsonType": "string"
+                },
+                "k3": {
+                    "bsonType": "array",
+                    "items": {
+                        "bsonType": "string"
+                    }
+                }
+            }
+        },
+        "doubleField": {
+            "bsonType": "double"
+        },
+        "int32Field": {
+            "bsonType": "int"
+        },
+        "strField": {
+            "bsonType": "string"
+        }
+    },
+    "title": "realmsync"
+}
