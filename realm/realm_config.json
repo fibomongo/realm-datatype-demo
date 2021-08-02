@@ -1,0 +1,8 @@
+{
+    "app_id": "realm-datatype-demo-ttsdh",
+    "config_version": 20210101,
+    "name": "realm-datatype-demo",
+    "location": "SG",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
