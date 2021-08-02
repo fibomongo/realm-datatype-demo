@@ -44,9 +44,6 @@
         "strField": {
             "bsonType": "string"
         },
-        "timestampField": {
-            "bsonType": "timestamp"
-        },
         "user": {
             "bsonType": "string"
         }
