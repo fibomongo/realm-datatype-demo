@@ -46,7 +46,13 @@
         },
         "timestampField": {
             "bsonType": "timestamp"
+        },
+        "user": {
+            "bsonType": "string"
         }
     },
+    "required": [
+        "user"
+    ],
     "title": "realmsync"
 }
