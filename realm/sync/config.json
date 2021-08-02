@@ -1,9 +1,8 @@
 {
     "state": "enabled",
     "partition": {
-        "key": "user",
+        "key": "_partition",
         "type": "string",
-        "required": true,
         "permissions": {
             "read": {},
             "write": {}
