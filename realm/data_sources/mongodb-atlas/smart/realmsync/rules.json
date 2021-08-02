@@ -9,6 +9,14 @@
             "delete": true,
             "search": true,
             "additional_fields": {}
+        },
+        {
+            "name": "role 2",
+            "apply_when": {},
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
         }
     ]
 }
